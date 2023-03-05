@@ -36,7 +36,7 @@ update registros_personas set nombre= 'Ernesto',
 apellido = 'Cantero'
 where id = '6';
 
-select * from registros_personas;
+ 
 
 
 
